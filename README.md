@@ -32,7 +32,7 @@ appointments.
 ![App Screenshot](https://github.com/rikeshmhz/Appointment_Management_System/blob/master/frontend/public/screenshot/userVerified.jpg?raw=true)
 
 ### Login Page
-![App Screenshot](https://github.com/rikeshmhz/Appointment_Management_System/master/frontend/public/screenshot/login.JPG?raw=true)
+![App Screenshot](https://github.com/rikeshmhz/Appointment_Management_System/blob/master/frontend/public/screenshot/login1.jpg?raw=true)
 
 ### Dashboard Page
 ![App Screenshot](https://github.com/rikeshmhz/Appointment_Management_System/blob/master/frontend/public/screenshot/Dashboard.jpg?raw=true)
